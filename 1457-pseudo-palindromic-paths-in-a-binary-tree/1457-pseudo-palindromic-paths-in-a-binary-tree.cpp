@@ -24,7 +24,7 @@ public:
         countValidPaths(root->left,freq,cnt);
         countValidPaths(root->right,freq,cnt);
         // Checking will be done when we are at a leaf node
-        // This ensures that we can remove that node from freq because that subtree is visited
+        // This ensures that we can remove the node from freq[] because that subtree is visited
         if(!root->left && !root->right) {
             int odd_cnt=0;
             for(int i=0;i<10;i++) if(freq[i]%2!=0) odd_cnt++;
