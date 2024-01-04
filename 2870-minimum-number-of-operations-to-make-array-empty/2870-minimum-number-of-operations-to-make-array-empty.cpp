@@ -6,7 +6,7 @@ public:
         for(int i:nums) freq[i]++;
         int step=0;
         for(auto it:freq) {
-            // Try to reduce by 3 as far as possible
+            // Trying to reduce by 3 as far as possible
             if(it.second%3==0) step+=it.second/3;
             else {
                 int cnt=it.second;
