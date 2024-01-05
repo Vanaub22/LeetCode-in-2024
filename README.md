@@ -8,4 +8,4 @@ This repository is dedicated to store all my LeetCode submissions from **1st Jan
 
 I am using the extension [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) to achieve this.
 
-It will only work when you are submitting your solutions in the old **legacy version** of LeetCode and using **Microsoft Edge Browser**. It won't sync your earlier submissions. it will only keep adding your new submissions.
+It will only work when you are submitting your solutions in the old **legacy version** of LeetCode and using **Microsoft Edge Browser**. It won't sync your earlier submissions, it will only keep on adding your new submissions.
