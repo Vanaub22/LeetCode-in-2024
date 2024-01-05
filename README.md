@@ -4,7 +4,7 @@ I have been active on LeetCode since January 2023. I have solved **800+ problems
 
 Link to my [My LeetCode Profile](https://leetcode.com/Anuvab).
 
-This repository is dedicated to store all my LeetCode submissions **1st January, 2024 onwards**.
+This repository is dedicated to store all my LeetCode submissions from **1st January, 2024 onwards**.
 
 I am using the extension [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) to achieve this.
 
