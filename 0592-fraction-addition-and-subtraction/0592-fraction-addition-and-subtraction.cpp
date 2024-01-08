@@ -1,13 +1,13 @@
 class Solution {
 public:
-    // Basic simulation using several conditonals and flags
+    // Basic simulation using several conditionals and flags
     string fractionAddition(string exp) {
-        if(exp[0]!='-') exp="+"+exp; // Adding '+' at the beginning to maintain format
+        if(exp[0]!='-') exp="+"+exp; // Adding a '+' at the beginning to maintain format
         exp+='+'; // Adding a sign at the end to perform the last operation
         string numerator="",denominator="";
         char op; // Flag to indicate which operation to perform (addition / subtraction)
         bool num_flg=true; // Flag to indicate if we are collecting numerator or denominator
-        int n=exp.length(),r_num=0,r_denom=1; // Storing initial result = 0 / 1
+        int n=exp.length(),r_num=0,r_denom=1; // Storing initial result = [0 / 1]
         for(int i=0;i<n;i++) {
             if(exp[i]=='+' || exp[i]=='-') {
                 if(i==0) { 
