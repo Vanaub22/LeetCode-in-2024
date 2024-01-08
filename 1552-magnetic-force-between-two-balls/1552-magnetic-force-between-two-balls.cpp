@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Binary Search on range valid answers
+    // Binary Search on range of valid answers
     int maxDistance(vector<int>& positions, int m) {
         sort(positions.begin(),positions.end());
         int n=positions.size(),low=0,high=positions[n-1],minForce=0;
