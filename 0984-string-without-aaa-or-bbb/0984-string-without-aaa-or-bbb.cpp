@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Greedy Approach
+    // Greedy Approach (Taking turns)
     string strWithout3a3b(int a, int b) {
         string res="";
         char turn=a>b?'a':'b';
