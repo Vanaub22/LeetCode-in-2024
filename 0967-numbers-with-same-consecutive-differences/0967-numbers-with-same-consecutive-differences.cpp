@@ -1,7 +1,7 @@
 class Solution {
 public:
     // Recursive solution using DFS gives TLE
-    // Iterative solution with BFS passes
+    // Iterative solution using BFS passes
     vector<int> numsSameConsecDiff(int n, int k) {
         int llim=pow(10,n-1);
         vector<int> res;
