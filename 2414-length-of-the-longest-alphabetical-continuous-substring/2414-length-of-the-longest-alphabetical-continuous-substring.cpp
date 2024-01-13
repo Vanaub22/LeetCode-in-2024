@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Sliding Window (Maximizing length of window)
+    // Sliding Window (Maximizing length of valid window)
     int longestContinuousSubstring(string s) {
         int n=s.length(),L=1;
         for(int left=0;left<n;left++) {
