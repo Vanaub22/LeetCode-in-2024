@@ -8,7 +8,7 @@ public:
         for(int i=0;i<n;i++) if(!visited[i]) return false;
         return true;
     }
-    // Helper fn. to perform DFS
+    // Helper method to perform DFS
     void dfs(int room, vector<vector<int>>& rooms, bool visited[]) {
         if(visited[room]) return;
         visited[room]=true;
