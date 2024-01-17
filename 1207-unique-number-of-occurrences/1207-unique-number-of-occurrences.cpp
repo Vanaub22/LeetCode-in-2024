@@ -5,8 +5,8 @@ public:
         for(int i:arr) freq[i]++;
         set<int> s;
         for(auto& it:freq) {
-            if(s.find(it.second)!=s.end()) return false;
-            else s.insert(it.second);
+            if(s.find(it.second)==s.end()) s.insert(it.second);
+            else return false;
         }
         return true;
     }
