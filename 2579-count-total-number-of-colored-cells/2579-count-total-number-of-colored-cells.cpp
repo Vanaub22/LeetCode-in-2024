@@ -6,6 +6,5 @@ public:
         // Sn = 1 + 4(n - 1)(n - 1 + 1) / 2 => Sn = 1 + 2n(n - 1)
         // The sum of the series (Sn) can be expressed as 1 + 2 * n * (n - 1)
         return 1+(long long)2*n*(n-1);
-
     }
 };
