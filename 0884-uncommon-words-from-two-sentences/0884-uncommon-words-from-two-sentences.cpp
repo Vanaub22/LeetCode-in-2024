@@ -7,14 +7,14 @@ public:
         unordered_map<string,int> freq;
         string word="";
         for(char c:s1) {
-            if(c!=' ') word+=c;
+            if(c!=32) word+=c;
             else {
                 freq[word]++;
                 word="";
             }
         }
         for(char c:s2) {
-            if(c!=' ') word+=c;
+            if(c!=32) word+=c;
             else {
                 freq[word]++;
                 word="";
