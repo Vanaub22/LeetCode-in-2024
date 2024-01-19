@@ -9,7 +9,6 @@ public:
         for(char c:s1) {
             if(c!=' ') word+=c;
             else {
-                cout<<word<<" ";
                 freq[word]++;
                 word="";
             }
@@ -17,7 +16,6 @@ public:
         for(char c:s2) {
             if(c!=' ') word+=c;
             else {
-                cout<<word<<" ";
                 freq[word]++;
                 word="";
             }
