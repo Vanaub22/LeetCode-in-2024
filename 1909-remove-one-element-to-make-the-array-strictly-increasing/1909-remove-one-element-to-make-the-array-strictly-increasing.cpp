@@ -7,7 +7,7 @@ public:
             if(nums[i]<=nums[i-1]) {
                 if(fault) return false;
                 fault=true;
-                if(i>1 && nums[i-2]>=nums[i]) nums[i]=nums[i-1];
+                if(i>1 && nums[i]<=nums[i-2]) nums[i]=nums[i-1];
             }
         }
         return true;
