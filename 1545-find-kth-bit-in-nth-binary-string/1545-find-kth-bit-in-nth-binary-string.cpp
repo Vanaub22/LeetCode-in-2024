@@ -1,9 +1,7 @@
 class Solution {
 public:
     char findKthBit(int n, int k) {
-        string s1="0";
-        string sn=findSn(s1,n);
-        return sn[k-1];
+        return findSn("0",n)[k-1];
     }
     string findSn(string sprev, int n) {
         if(n==0) return sprev;
