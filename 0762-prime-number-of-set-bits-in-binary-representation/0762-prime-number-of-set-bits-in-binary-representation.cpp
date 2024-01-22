@@ -15,8 +15,8 @@ public:
     }
     bool isPrime(int x) {
         if(x<=1) return false;
-        int cnt=0;
-        for(int i=2;i<=x/2;i++) if(x%i==0) cnt++;
-        return !cnt;
+        int f=0;
+        for(int i=2;i<=x/2;i++) if(x%i==0) f++;
+        return !f;
     }
 };
