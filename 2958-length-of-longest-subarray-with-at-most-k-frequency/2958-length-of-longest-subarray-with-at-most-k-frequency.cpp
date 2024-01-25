@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // Classic Sliding Window
+    // Simple Sliding Window
     int maxSubarrayLength(vector<int>& nums, int k) {
         unordered_map<int,int> freq;
         int i=0,w_start=0,res;
