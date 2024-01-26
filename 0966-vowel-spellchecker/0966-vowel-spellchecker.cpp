@@ -5,7 +5,7 @@ public:
         unordered_map<string,string> originalCase,vowelSubs;
         vector<string> answer;
         for(auto word:wordlist) {
-            // No repeat entries will be allowed to ensure that the match is always the first match
+            // No repeated entries will be allowed to ensure that the match is always the first match
             words.insert(word);
             string lword=toLower(word),vsub=toLower(maskVowels(word));
             if(originalCase.find(lword)==originalCase.end()) originalCase[lword]=word;
