@@ -1,10 +1,10 @@
 class Solution {
 public:
     int maxTurbulenceSize(vector<int>& arr) {
-        int ans=0;
-        for(int i=0;i<arr.size();i++) {
+        int ans=0,n=arr.size();
+        for(int i=0;i<n;i++) {
             int w_end=i,comp=-1; // -1 => Not assigned
-            while(w_end<arr.size()) {
+            while(w_end<n) {
                 if(w_end-i!=0) {
                     if(arr[w_end-1]==arr[w_end]) break;
                     else if(arr[w_end-1]>arr[w_end]) {
