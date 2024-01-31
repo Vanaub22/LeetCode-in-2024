@@ -1,6 +1,6 @@
 # LeetCoding in 2024
 
-I have been active on LeetCode since January 2023. I have solved **800+ problems** on the platform and I am loving the learning experience so far. I also have a **Leetcode Contest Rating** of **1595 (Top 22.85%)** as of 5th January, 2023.
+I have been active on LeetCode since January 2023. I have solved **900+ problems** on the platform and I am loving the learning experience so far. I also have a **Leetcode Contest Rating** of **1642 (Top 17.44%)** as of 31st January, 2024.
 
 Link to my [My LeetCode Profile](https://leetcode.com/Anuvab).
 
