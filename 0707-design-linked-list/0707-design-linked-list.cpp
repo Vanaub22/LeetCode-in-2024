@@ -1,4 +1,4 @@
-// Defining Node class for the Linked List
+// Defining Node class for the Linked List (using class instead of struct for constructors)
 class Node {
 public:
     Node* next=nullptr;
