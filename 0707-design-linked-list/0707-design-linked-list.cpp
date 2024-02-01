@@ -1,4 +1,4 @@
-// Defining Node class for the Linked List (could have also been done using structures)
+// Defining Node class for the Linked List
 
 class Node {
 public:
