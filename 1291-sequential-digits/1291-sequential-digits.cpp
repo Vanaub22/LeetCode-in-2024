@@ -8,9 +8,8 @@ public:
     }
     void gen(string s, int low, int high, vector<int>& ans) {
         int n=stoi(s);
-        if(n>high) return;
         if(n>=low && n<=high) ans.emplace_back(n);
-        if(s.back()=='9') return;
+        if(n>high || s.back()=='9') return;
         s+=s.back()+1;
         gen(s,low,high,ans);
     }
