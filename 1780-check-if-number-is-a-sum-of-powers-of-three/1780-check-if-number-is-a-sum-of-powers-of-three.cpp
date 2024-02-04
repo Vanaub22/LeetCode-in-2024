@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool checkPowersOfThree(int n) {
-        // From constraints: Maximum permissible power of 3 is 16, i.e. 3^16
+        // Given constraints: Maximum permissible power of 3 is 16, i.e. 3^16
         return helper(n,16);
     }
     // Helper fn. to check recursively
