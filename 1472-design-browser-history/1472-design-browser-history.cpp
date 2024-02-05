@@ -1,5 +1,5 @@
 // Browser history will be implemented using a Doubly Linked List
-// Defining custom class for DLL node
+// Defining custom class for node of DLL
 class Node {
 public:
     Node* prev=nullptr,*next=nullptr;
