@@ -7,6 +7,7 @@ public:
         this->n=n,this->idx=idx,this->src=src,this->target=target;
     }
 };
+
 class Solution {
 public:
     string findReplaceString(string s, vector<int>& indices, vector<string>& sources, vector<string>& targets) {
