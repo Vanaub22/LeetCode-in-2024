@@ -1,5 +1,5 @@
 // Browser history will be implemented using a Doubly Linked List
-// Defining custom class for nodes of DLL
+// Defining custom class for DLL node
 class Node {
 public:
     Node* prev=nullptr,*next=nullptr;
@@ -16,13 +16,11 @@ public:
     BrowserHistory(string homepage) {
         curr=new Node(homepage,nullptr);
     }
-    
     void visit(string url) {
         Node* visited=new Node(url,curr);
         curr->next=visited;
         curr=curr->next;
     }
-    
     string back(int steps) {
         while(steps) {
             if(curr->prev) curr=curr->prev;
@@ -31,7 +29,6 @@ public:
         }
         return curr->url;
     }
-    
     string forward(int steps) {
         while(steps) {
             if(curr->next) curr=curr->next;
