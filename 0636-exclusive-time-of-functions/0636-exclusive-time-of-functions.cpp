@@ -30,7 +30,7 @@ public:
                     excTime[lastLog.id]+=runningTime;
                     callStack.pop();
                 }
-                // Subtracting nested fn. call running times from the outer fn.
+                // Subtracting nested fn. call running time from the outer fn.
                 if(!callStack.empty()) excTime[callStack.top().id]-=runningTime;
             }
         }
