@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string frequencySort(string s) {
+    string frequencySort(string& s) {
         unordered_map<char,int> freq;
         for(char c:s) freq[c]++;
         sort(s.begin(),s.end(),[&](char& a, char& b) {
