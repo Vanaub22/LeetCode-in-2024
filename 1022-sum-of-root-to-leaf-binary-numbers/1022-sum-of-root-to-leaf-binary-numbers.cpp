@@ -18,7 +18,7 @@ private:
         return val;
     }
     // Helper fn. to simply perform DFS and explore all root-to-leaf paths
-    void dfs(auto root, auto& s, int& res) {
+    void dfs(auto root, string& s, int& res) {
         if(!root) return;
         s+=to_string(root->val);
         if(!root->left && !root->right) {
