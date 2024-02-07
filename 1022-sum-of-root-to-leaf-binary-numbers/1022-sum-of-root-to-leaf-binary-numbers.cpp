@@ -17,7 +17,7 @@ private:
         for(int i=0;i<n;i++) val+=(s[i]-'0')<<(n-i-1);
         return val;
     }
-    // Helper fn. to simply perform DFS and explore all root-to-leaf paths
+    // Helper fn. to perform DFS and explore all root-to-leaf paths
     void dfs(auto root, auto& s, int& res) {
         if(!root) return;
         s+=to_string(root->val);
