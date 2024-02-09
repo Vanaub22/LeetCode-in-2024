@@ -3,12 +3,6 @@ public:
     bool canReach(vector<int>& arr, int start) {
         if(!arr[start]) return true;
         int n=arr.size();
-        // Converting into an adjacency list
-        vector<int> adj[n];
-        for(int i=0;i<n;i++) {
-            if(i-arr[i]>=0 && i-arr[i]<=n-1) adj[i].push_back(i-arr[i]);
-            if(i+arr[i]>=0 && i+arr[i]<=n-1) adj[i].push_back(i+arr[i]);
-        }
         // Performing BFS to determine if reaching a value 0 is possible or not
         queue<int> q;
         bool visited[n];
@@ -18,12 +12,15 @@ public:
         while(!q.empty()) {
             int curr=q.front();
             q.pop();
-            for(int i:adj[curr]) {
-                if(!visited[i]) {
-                    q.push(i);
-                    visited[i]=true;
-                    if(!arr[i]) return true;
-                }
+            if(curr+arr[curr]>=0 && curr+arr[curr]<n && !visited[curr+arr[curr]]) {
+                if(!arr[curr+arr[curr]]) return true;
+                visited[curr+arr[curr]]=true;
+                q.push(curr+arr[curr]);
+            }
+            if(curr-arr[curr]>=0 && curr-arr[curr]<n && !visited[curr-arr[curr]]) {
+                if(!arr[curr-arr[curr]]) return true;
+                visited[curr-arr[curr]]=true;
+                q.push(curr-arr[curr]);
             }
         }
         return false;
