@@ -10,7 +10,7 @@ private:
     }
 public:
     int numEnclaves(vector<vector<int>>& grid) {
-        int m=grid.size(),n=grid[0].size(),ans=0;
+        int m=grid.size(),n=grid[0].size(),enclaves=0;
         vector<vector<bool>> visited(m,vector<bool>(n,false));
         for(int i=0;i<n;i++) {
             if(grid[0][i] && !visited[0][i]) dfs(0,i,visited,grid);
@@ -20,7 +20,7 @@ public:
             if(grid[i][0] && !visited[i][0]) dfs(i,0,visited,grid); 
             if(grid[i][n-1] && !visited[i][n-1]) dfs(i,n-1,visited,grid); 
         }
-        for(int i=0;i<m;i++) for(int j=0;j<n;j++) if(grid[i][j] && !visited[i][j]) ans++;
-        return ans;
+        for(int i=0;i<m;i++) for(int j=0;j<n;j++) if(grid[i][j] && !visited[i][j]) enclaves++;
+        return enclaves;
     }
 };
