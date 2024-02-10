@@ -15,7 +15,7 @@ public:
             }
             else if(operation=="D") {
                 int x=stk.top();
-                stk.push(2*x);
+                stk.push(x*2);
             }
             else if(operation=="C") stk.pop();
             else stk.push(stoi(operation));
