@@ -14,6 +14,7 @@ private:
     void moveZigZag(TreeNode* root, bool moveLeft, int steps, int& res) {
         if(!root) return;
         res=max(res,steps);
+        // Either following this zigzag path or starting a new one starting from this node
         if(moveLeft) {
             moveZigZag(root->left,!moveLeft,steps+1,res);
             moveZigZag(root->right,moveLeft,1,res);
