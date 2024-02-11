@@ -2,7 +2,7 @@
 class Solution {
 private:
     int solve(int i, vector<int>& nums, int memo[]) {
-        if(!i) return nums[0];
+        if(i==0) return nums[0];
         if(i<0) return 0;
         if(memo[i]!=-1) return memo[i];
         int take=nums[i]+solve(i-2,nums,memo),not_take=solve(i-1,nums,memo);
