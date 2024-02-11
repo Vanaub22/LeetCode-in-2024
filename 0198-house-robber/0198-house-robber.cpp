@@ -1,4 +1,4 @@
-// Recurive approach involving take/not-take optimized using 1-D top-down DP on subsequences (memoization)
+// Recursive approach involving take/not-take optimized using 1-D top-down DP on subsequences (memoization)
 class Solution {
 private:
     int solve(int i, vector<int>& nums, int memo[]) {
