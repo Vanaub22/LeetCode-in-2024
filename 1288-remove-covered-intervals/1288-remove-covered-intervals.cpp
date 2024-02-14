@@ -9,7 +9,7 @@ private:
         return false;
     }
 public:
-    // Brute Force Approach
+    // Brute force
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         sort(intervals.begin(),intervals.end());
         int n=intervals.size(),remaining=n;
