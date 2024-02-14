@@ -17,7 +17,7 @@ public:
     
     int countUnexpiredTokens(int currentTime) {
         int unexpired=0;
-        for(auto& rec:tokenExpiry) if(rec.second>currentTime) unexpired++;
+        for(auto& entry:tokenExpiry) if(entry.second>currentTime) unexpired++;
         return unexpired;
     }
 };
