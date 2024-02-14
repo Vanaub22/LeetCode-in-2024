@@ -1,6 +1,6 @@
 class Solution {
 private:
-    bool covering(vector<int>& i1, vector<int>& i2) {
+    bool covering(auto& i1, auto& i2) {
         if(i1[0]<0 || i2[0]<0 || i1[1]<0 || i2[1]<0) return false;
         if(i1[0]<=i2[0] && i1[1]>=i2[1]) {
             i2[0]=-1,i2[1]=-1; // Marking as considered/visited
