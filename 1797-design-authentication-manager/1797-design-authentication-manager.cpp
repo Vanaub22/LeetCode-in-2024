@@ -11,8 +11,7 @@ public:
     }
     
     void renew(string tokenId, int currentTime) {
-        if(tokenExpiry.find(tokenId)==tokenExpiry.end()) return;
-        if(tokenExpiry[tokenId]<=currentTime) return;
+        if(tokenExpiry.find(tokenId)==tokenExpiry.end() || tokenExpiry[tokenId]<=currentTime) return;
         tokenExpiry[tokenId]=currentTime+this->timeToLive; // Renewal
     }
     
