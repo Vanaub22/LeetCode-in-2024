@@ -11,12 +11,11 @@ private:
 public:
     // Brute force
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
-        sort(intervals.begin(),intervals.end());
         int n=intervals.size(),remaining=n;
         for(int i=0;i<n;i++) {
             for(int j=0;j<n;j++) {
                 if(i==j) continue;
-                else if(covering(intervals[i],intervals[j])) remaining--;
+                if(covering(intervals[i],intervals[j])) remaining--;
             }
         }
         return remaining;
