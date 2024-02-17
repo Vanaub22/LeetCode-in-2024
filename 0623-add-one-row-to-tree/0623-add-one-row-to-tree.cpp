@@ -15,7 +15,7 @@ public:
         if(depth==1) return new TreeNode(val,root,nullptr); // Changing the root
         queue<TreeNode*> q;
         q.push(root);
-        int d=1; // Storing the current depth
+        int d=1; // Storing the current depth of traversal
         // Descending to required depth by level-order traversal
         while(!q.empty() && depth>2) {
             int n=q.size();
