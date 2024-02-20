@@ -1,16 +1,16 @@
 class Solution {
 private:
-    int solve(int i, int amount, auto& coins, vector<vector<int>>& memo) {
-        if(i>=coins.size() || amount<0) return 0;
-        if(amount==0) return 1;
-        if(memo[i][amount]!=-1) return memo[i][amount];
+    int solve(int i, int amt, auto& coins, vector<vector<int>>& memo) {
+        if(i>=coins.size() || amt<0) return 0;
+        if(amt==0) return 1;
+        if(memo[i][amt]!=-1) return memo[i][amt];
         int combinations=0;
-        for(int j=i;j<coins.size();j++) combinations+=solve(j,amount-coins[j],coins,memo);
-        return memo[i][amount]=combinations;
+        for(int j=i;j<coins.size();j++) combinations+=solve(j,amt-coins[j],coins,memo);
+        return memo[i][amt]=combinations;
     }
 public:
-    int change(int amount, vector<int>& coins) {
-        vector<vector<int>> memo(coins.size(),vector<int>(amount+1,-1));
-        return solve(0,amount,coins,memo);
+    int change(int amt, vector<int>& coins) {
+        vector<vector<int>> memo(coins.size(),vector<int>(amt+1,-1));
+        return solve(0,amt,coins,memo);
     }
 };
