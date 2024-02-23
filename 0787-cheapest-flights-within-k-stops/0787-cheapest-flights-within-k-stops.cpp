@@ -16,7 +16,7 @@ public:
             for(auto& neighbour:adjList[node]) {
                 int destNode=neighbour.first,edge_weight=neighbour.second;
                 if(cost+edge_weight<price[destNode] && stops<=k) {
-                    // Getting a better path at a lesser cost with a valid number of stops
+                    // Getting a better path at a lesser price with a valid number of stops
                     price[destNode]=cost+edge_weight;
                     q.push(make_pair(stops+1,make_pair(destNode,cost+edge_weight)));
                 }
