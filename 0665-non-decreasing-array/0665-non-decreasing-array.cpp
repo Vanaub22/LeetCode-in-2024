@@ -8,7 +8,7 @@ public:
                 else {
                     // Removal somewhere in the middle (Either nums[i] or nums[i+1])
                     if(nums[i-1]<=nums[i+1] || nums[i]<=nums[i+2]) peaks++;
-                    else return false;
+                    else return false; // The removal won't make the array non-decreasing
                 }
             }
         }
