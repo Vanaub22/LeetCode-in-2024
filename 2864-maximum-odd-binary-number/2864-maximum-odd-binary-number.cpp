@@ -7,7 +7,7 @@ public:
             c='0';
         }
         s[s.length()-1]='1';
-        for(char& c:s) if(ones>0) {
+        for(char& c:s) if(ones) {
             c='1';
             ones--;
         }
