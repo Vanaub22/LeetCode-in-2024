@@ -1,7 +1,7 @@
 class Solution {
 public:
-    bool present(auto& umap,int value){
-        for(auto it:umap) if(it.second==value) return true;
+    bool present(auto& umap, int val){
+        for(auto it:umap) if(it.second==val) return true;
         return false;
     }
     bool isIsomorphic(string s, string t) {
