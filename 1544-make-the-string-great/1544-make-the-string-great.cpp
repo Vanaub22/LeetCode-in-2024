@@ -4,14 +4,9 @@ public:
         stack<char> st;
         for(char c:s) {
             if(st.empty()) st.push(c);
-            else if(isupper(c)) {
-                if(st.top()==tolower(c)) st.pop();
-                else st.push(c);
-            }
-            else {
-                if(st.top()==toupper(c)) st.pop();
-                else st.push(c);
-            }
+            else if(isupper(c) && st.top()==tolower(c)) st.pop();
+            else if(islower(c) && st.top()==toupper(c)) st.pop();
+            else st.push(c);
         }
         string good="";
         while(!st.empty()) {
