@@ -11,7 +11,7 @@ private:
         }
         else if(s[i]=='(') return memo[i][open]=check(i+1,open+1,s,memo,n);
         else if(open) return memo[i][open]=check(i+1,open-1,s,memo,n);
-        return memo[i][open]=0;
+        else return memo[i][open]=0;
     }
 public:
     bool checkValidString(string& s) {
