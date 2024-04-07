@@ -6,8 +6,8 @@ private:
         if(i==n) return !open;
         if(memo[i][open]!=-1) return memo[i][open];
         if(s[i]=='*') {
-            if(open) return memo[i][open]=(check(i+1,open-1,s,memo,n) || check(i+1,open,s,memo,n) || check(i+1,open+1,s,memo,n));
-            else return memo[i][open]=(check(i+1,open+1,s,memo,n) || check(i+1,open,s,memo,n));
+            if(open) return memo[i][open]=check(i+1,open-1,s,memo,n) || check(i+1,open,s,memo,n) || check(i+1,open+1,s,memo,n);
+            else return memo[i][open]=check(i+1,open+1,s,memo,n) || check(i+1,open,s,memo,n);
         }
         else if(s[i]=='(') return memo[i][open]=check(i+1,open+1,s,memo,n);
         else if(open) return memo[i][open]=check(i+1,open-1,s,memo,n);
