@@ -1,4 +1,4 @@
-// 2-Pass Solution O(N) T.C. and O(1) S.C.
+// 2-Pass Solution with O(N) T.C. and O(1) S.C.
 class Solution {
 public:
     int longestValidParentheses(string s) {
