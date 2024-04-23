@@ -1,4 +1,4 @@
-// Monotonic Stack Solution (Next Greater Element Logic)
+// Monotonic Stack Solution (Next Greater Element Logic) in O(N) T.C.
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
