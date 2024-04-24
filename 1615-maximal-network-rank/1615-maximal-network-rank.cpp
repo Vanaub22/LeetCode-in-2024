@@ -1,5 +1,5 @@
 // Optimized T.C. from O(N^3) to O(N^2) at the cost of O(N^2) space
-// O(N^3) solution passes all test cases
+// O(N^3) solution passes all test cases too
 class Solution {
 public:
     int maximalNetworkRank(int n, vector<vector<int>>& roads) {
