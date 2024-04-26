@@ -8,6 +8,7 @@ public:
         for(int i=0;i<n;i++) res=min(res,findFallSum(0,i,matrix,memo,m,n));
         return res; 
     }
+private:
     // Helper fn. to perform the memoization
     int findFallSum(int r, int c, vector<vector<int>>& mat, vector<vector<int>>& memo, int m, int n) {
         if(memo[r][c]!=INT_MAX) return memo[r][c];
