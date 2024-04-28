@@ -12,7 +12,7 @@ private:
     void calc(int root, int parent, vector<int> adjList[], int n, auto& ans, auto& cnt) {
         for(int node:adjList[root]) {
             if(node==parent) continue;
-            // At node, cnt[node] nodes will get closer and n - cnt[node] nodes will go further
+            // At node, cnt[node] nodes will get one step closer and n - cnt[node] nodes will move one step away
             ans[node]=ans[root]-cnt[node]+n-cnt[node];
             calc(node,root,adjList,n,ans,cnt);
         }
