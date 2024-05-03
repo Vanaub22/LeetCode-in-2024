@@ -32,7 +32,7 @@ public:
     double findMedian() {
         int m=lesser_pq.size(),n=greater_pq.size();
         if(!m && !n) return 0;
-        if(m>n) return lesser_pq.top();
+        else if(m>n) return lesser_pq.top();
         else if(m<n) return greater_pq.top();
         else return (lesser_pq.top()+greater_pq.top())/2.0;
     }
