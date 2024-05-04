@@ -14,6 +14,6 @@ public:
     int minDistance(string word1, string word2) {
         int m=word1.size(),n=word2.size();
         vector<vector<int>> memo(m+1,vector<int>(n+1,-1));
-        return dp(0,0,word1,word2,word1.size(),word2.size(),memo);
+        return dp(0,0,word1,word2,m,n,memo);
     }
 };
