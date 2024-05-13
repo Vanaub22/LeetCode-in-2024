@@ -21,7 +21,6 @@ private:
         return score;
     }
 public:
-    // Greedy approach
     int matrixScore(vector<vector<int>>& grid) {
         int m=grid.size(),n=grid[0].size();
         // Making rows start with one to maximize score
