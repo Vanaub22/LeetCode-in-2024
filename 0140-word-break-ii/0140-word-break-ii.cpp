@@ -7,10 +7,7 @@ public:
             int m=word.length();
             if(s.substr(0,m)==word) {
                 if(m==n) res.push_back(word);
-                else {
-                    vector<string> others=wordBreak(s.substr(m),wordDict);
-                    for(auto& other:others) res.push_back(word+" "+other);
-                }
+                else for(auto& other:wordBreak(s.substr(m),wordDict)) res.push_back(word+" "+other);
             }
         }
         return res;
