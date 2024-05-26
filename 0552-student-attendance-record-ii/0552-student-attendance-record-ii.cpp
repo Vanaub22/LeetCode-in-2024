@@ -1,4 +1,4 @@
-#define MOD ((int)1e9+7)
+#define MOD 1000000007
 class Solution {
 private:
     int solve(int n, int consecutive_lates, int days_absent, auto& memo) {
