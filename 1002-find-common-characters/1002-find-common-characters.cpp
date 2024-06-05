@@ -9,7 +9,7 @@ public:
             for(char c:word) wordf[c-'a']++;
             for(int i=0;i<26;i++) freq[i]=min(freq[i],wordf[i]);
         }
-        for(int i=0;i<26;i++) for(int j=0;j<freq[i];j++) res.push_back(string(1,'a'+i));
+        for(int i=0;i<26;i++) for(int j=0;j<freq[i];j++) res.push_back(string(1,i+97));
         return res;
     }
 };
