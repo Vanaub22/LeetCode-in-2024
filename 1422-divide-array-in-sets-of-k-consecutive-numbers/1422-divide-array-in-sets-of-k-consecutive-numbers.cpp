@@ -9,7 +9,7 @@ public:
             for(int i=gstart;i<gstart+k;i++) {
                 if(mp.find(i)==mp.end()) return false;
                 mp[i]--; // Using for this group
-                if(mp[i]==0) {
+                if(!mp[i]) {
                     if(i!=(*mp.begin()).first) return false;
                     mp.erase(i); // Exhausted after using in this group
                 }
