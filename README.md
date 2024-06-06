@@ -14,16 +14,20 @@ It will only work when you are submitting your solutions in the old **legacy ver
 # Array
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Hash Table
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Sorting
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
