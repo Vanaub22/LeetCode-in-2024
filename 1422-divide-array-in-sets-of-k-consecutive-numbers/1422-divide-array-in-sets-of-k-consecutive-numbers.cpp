@@ -1,21 +1,17 @@
 class Solution {
 public:
     bool isPossibleDivide(vector<int>& nums, int k) {
-        int n=nums.size();
-        if(n%k) return false;
-        map<int,int> mp;
+        if(nums.size()%k) return false;
+        map<int,int> mp; // Will be using std::map as both Hashmap and Min-heap
         for(int i:nums) mp[i]++;
-        // for(auto it:mp) cout<<it.first<<"->"<<it.second<<" | ";
-        // cout<<endl;
         while(!mp.empty()) {
-            int start=(*mp.begin()).first;
-            // cout<<"start: "<<start<<endl;
-            for(int i=start;i<start+k;i++) {
+            int gstart=(*mp.begin()).first;
+            for(int i=gstart;i<gstart+k;i++) {
                 if(mp.find(i)==mp.end()) return false;
-                mp[i]--;
+                mp[i]--; // Using for this group
                 if(mp[i]==0) {
                     if(i!=(*mp.begin()).first) return false;
-                    mp.erase(i);
+                    mp.erase(i); // Exhausted after using in this group
                 }
             }
         }
