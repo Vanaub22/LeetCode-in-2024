@@ -1,8 +1,8 @@
 class Solution {
 public:
-    string replaceWords(vector<string>& dict, string sentence) {
+    string replaceWords(vector<string>& dict, string s) {
         string word,ans="";
-        stringstream ss(sentence);
+        stringstream ss(s);
         while(ss>>word) {
             string root=word;
             for(int i=0;i<word.size();i++) {
