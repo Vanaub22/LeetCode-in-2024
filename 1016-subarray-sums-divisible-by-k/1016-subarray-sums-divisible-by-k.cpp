@@ -8,11 +8,11 @@ class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
         // Converting to prefix sum array
-        int pf=0,ans=0;
+        int pfs=0,ans=0;
         unordered_map<int,int> rem={{0,1}};
         for(int i:nums) {
-            pf+=i;
-            int r=pf%k;
+            pfs+=i;
+            int r=pfs%k;
             if(r<0) r+=k;
             ans+=rem[r]++;
         }
