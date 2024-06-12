@@ -4,9 +4,9 @@ public:
         unordered_map<int,int> ump;
         for(int i=0;i<arr2.size();i++) ump[arr2[i]]=i;
         sort(arr1.begin(),arr1.end(),[&](int& a, int& b) {
-            unordered_map<int,int>::iterator itra=ump.find(a),itrb=ump.find(b);
-            if(itra==ump.end() && itrb==ump.end()) return a<b;
-            else if(itra==ump.end() || itrb==ump.end()) return itrb==ump.end();
+            bool fa=ump.find(a)==ump.end(),fb=ump.find(b)==ump.end();
+            if(fa && fb) return a<b;
+            else if(fa || fb) return fb;
             else return ump[a]<ump[b];
         });
         return arr1;
