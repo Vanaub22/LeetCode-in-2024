@@ -14,6 +14,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
@@ -38,6 +39,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1217-relative-sort-array) |
@@ -64,3 +66,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [1137-height-checker](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1217-relative-sort-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0075-sort-colors) |
