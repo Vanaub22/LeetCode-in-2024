@@ -15,6 +15,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0330-patching-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
@@ -36,6 +37,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0330-patching-array) |
 | [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
