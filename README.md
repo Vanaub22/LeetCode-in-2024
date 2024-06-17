@@ -67,6 +67,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0633-sum-of-square-numbers) |
 # Prefix Sum
 |  |
 | ------- |
@@ -82,7 +83,12 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0633-sum-of-square-numbers) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0502-ipo) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0633-sum-of-square-numbers) |
