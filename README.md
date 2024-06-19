@@ -26,6 +26,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1137-height-checker](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -97,3 +98,4 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
