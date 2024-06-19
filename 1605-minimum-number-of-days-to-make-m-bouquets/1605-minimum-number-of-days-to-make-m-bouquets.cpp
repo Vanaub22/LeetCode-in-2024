@@ -13,7 +13,7 @@ private:
     }
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
-        int ans=-1,mid,n=bloomDay.size(),left=0,right=1e9;
+        int ans=-1,mid,n=bloomDay.size(),left=0,right=*max_element(bloomDay.begin(),bloomDay.end());
         while(left<=right) {
             mid=left+(right-left)/2;
             if(possibleBouquets(mid,bloomDay,k)>=m) {
