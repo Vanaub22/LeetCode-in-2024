@@ -24,6 +24,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -102,3 +103,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0853-most-profit-assigning-work](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1675-magnetic-force-between-two-balls) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1138-grumpy-bookstore-owner) |
