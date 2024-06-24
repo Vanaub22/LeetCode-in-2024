@@ -23,6 +23,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1217-relative-sort-array) |
@@ -80,6 +81,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting Sort
 |  |
 | ------- |
@@ -106,4 +108,13 @@ It will only work when you are submitting your solutions in the old **legacy ver
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1138-grumpy-bookstore-owner) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
