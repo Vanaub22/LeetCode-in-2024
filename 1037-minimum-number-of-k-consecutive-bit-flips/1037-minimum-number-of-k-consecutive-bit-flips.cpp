@@ -5,6 +5,7 @@ public:
         auto flip=[&nums](int flips, int i)->int {
             return flips%2?!nums[i]:nums[i];
         };
+        // Flipping k-size windows greedily
         vector<int> prefixFlips(n+1,0);
         for(int i=0;i<n;i++) {
             if(i) prefixFlips[i]+=prefixFlips[i-1];
@@ -14,6 +15,7 @@ public:
                 prefixFlips[i]++,prefixFlips[i+k]--;
             }
         }
+        // Checking if any zeroes are left
         for(int i=0;i<n;i++) if(!flip(prefixFlips[i],i)) return -1;
         return minFlips;
     }
