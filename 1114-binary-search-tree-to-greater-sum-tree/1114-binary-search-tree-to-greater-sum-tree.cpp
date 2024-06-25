@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    void traverse(TreeNode* root, vector<TreeNode*>& inorder, int& total) {
+    void traverse(auto root, auto& inorder, int& total) {
         if(!root) return;
         traverse(root->left,inorder,total);
         inorder.push_back(root); // Pushing in actual node references
