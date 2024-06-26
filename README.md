@@ -48,6 +48,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0853-most-profit-assigning-work](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
@@ -122,15 +123,23 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
