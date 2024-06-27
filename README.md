@@ -143,3 +143,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1916-find-center-of-star-graph) |
