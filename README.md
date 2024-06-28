@@ -51,6 +51,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1285-balance-a-binary-search-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1285-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2379-maximum-total-importance-of-roads) |
 # Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2379-maximum-total-importance-of-roads) |
 # String
 |  |
 | ------- |
@@ -99,6 +101,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2379-maximum-total-importance-of-roads) |
 # Binary Search
 |  |
 | ------- |
@@ -147,3 +150,4 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2379-maximum-total-importance-of-roads) |
