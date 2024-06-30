@@ -1,4 +1,4 @@
-// Creating the DSU Data Structure to perform Disjoint Set Union operation by size
+// Data structure to perform Disjoint Set Union operation by size
 class DSU {
     vector<int> size,parent;
     public:
@@ -24,6 +24,7 @@ class DSU {
         return true;
     }
 };
+
 class Solution {
 public:
     int maxNumEdgesToRemove(int n, vector<vector<int>>& edges) {
