@@ -174,4 +174,8 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
