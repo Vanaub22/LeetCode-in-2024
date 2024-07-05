@@ -201,4 +201,8 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
