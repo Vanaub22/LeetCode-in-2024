@@ -208,9 +208,11 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
