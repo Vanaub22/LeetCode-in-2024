@@ -249,5 +249,6 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Database
 |  |
 | ------- |
+| [1161-project-employees-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1390-average-selling-price) |
 <!---LeetCode Topics End-->
