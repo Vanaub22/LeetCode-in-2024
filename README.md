@@ -251,4 +251,5 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [1161-project-employees-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1390-average-selling-price) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1773-percentage-of-users-attended-a-contest) |
 <!---LeetCode Topics End-->
