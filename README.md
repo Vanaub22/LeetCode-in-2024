@@ -181,6 +181,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -237,4 +238,12 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0221-maximal-square) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
