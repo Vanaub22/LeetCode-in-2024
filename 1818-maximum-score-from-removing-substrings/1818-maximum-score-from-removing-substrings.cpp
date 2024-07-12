@@ -1,4 +1,3 @@
-// Greedy Approach (2-pass): Remove the more profitable combination first
 class Solution {
 public:
     int maximumGain(string s, int x, int y) {
