@@ -184,12 +184,14 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1720-crawler-log-folder](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,4 +267,12 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1161-project-employees-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1390-average-selling-price) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1773-percentage-of-users-attended-a-contest) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
