@@ -156,6 +156,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -179,6 +180,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0221-maximal-square](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0221-maximal-square) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1720-crawler-log-folder) |
@@ -191,6 +193,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -270,9 +273,11 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
