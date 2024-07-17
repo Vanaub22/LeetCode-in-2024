@@ -16,9 +16,7 @@ private:
         solve(curr,curr->left,rootForest,deleteSet,true);
         solve(curr,curr->right,rootForest,deleteSet,false);
         if(deleteSet.find(curr->val)!=deleteSet.end()) {
-            if(rootForest.find(curr->val)!=rootForest.end()) {
-                rootForest.erase(curr->val);
-            }
+            if(rootForest.find(curr->val)!=rootForest.end()) rootForest.erase(curr->val);
             if(parent) {
                 if(isLeft) parent->left=nullptr;
                 else parent->right=nullptr;
