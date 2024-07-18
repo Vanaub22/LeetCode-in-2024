@@ -158,6 +158,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -274,10 +275,12 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
