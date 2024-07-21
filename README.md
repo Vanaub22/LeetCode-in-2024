@@ -168,10 +168,12 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
 | ------- |
@@ -190,6 +192,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1803-average-waiting-time](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -255,6 +258,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0221-maximal-square](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0221-maximal-square) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2472-build-a-matrix-with-conditions) |
 ## String
 |  |
 | ------- |
