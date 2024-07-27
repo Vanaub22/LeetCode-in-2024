@@ -23,8 +23,8 @@ public:
         long long ans=0;
         for(int i=0;i<n;i++) {
             int src=source[i]-'a',dst=target[i]-'a';
-            if(memo[source[i]-'a'][target[i]-'a']==INF) return -1; // Unreachable
-            else ans+=memo[source[i]-'a'][target[i]-'a'];
+            if(memo[src][dst]==INF) return -1; // Unreachable
+            else ans+=memo[src][dst];
         }
         return ans;
     }
