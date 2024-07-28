@@ -162,12 +162,14 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
@@ -335,5 +337,6 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
