@@ -3,7 +3,7 @@
  * @return {Function}
  */
 function memoize(fn) {
-    let cache=[];
+    const cache=[];
     return function(...args) {
         const key=JSON.stringify(args);
         return cache[key]=key in cache?cache[key]:fn(...args);
