@@ -1,10 +1,3 @@
-#include <vector>
-#include <queue>
-#include <unordered_map>
-#include <unordered_set>
-#include <climits>
-using namespace std;
-
 class Solution {
 public:
     vector<int> shortestDistanceAfterQueries(int n, vector<vector<int>>& queries) {
