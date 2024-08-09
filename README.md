@@ -262,6 +262,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0009-palindrome-number) |
 | [0273-integer-to-english-words](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1642-water-bottles) |
