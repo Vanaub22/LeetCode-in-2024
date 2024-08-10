@@ -36,7 +36,7 @@ public:
                 else if(grid[i][j]=='\\') g[i*3][j*3]=1,g[i*3+1][j*3+1]=1,g[i*3+2][j*3+2]=1;
             }
         }
-        // Counting number of components using BFS
+        // Counting number of components
         vector<vector<bool>> visited(n*3,vector<bool>(n*3,false));
         for(int i=0;i<n*3;i++) {
             for(int j=0;j<n*3;j++) {
