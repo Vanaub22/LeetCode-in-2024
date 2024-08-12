@@ -346,12 +346,14 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -362,6 +364,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -399,4 +402,16 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
