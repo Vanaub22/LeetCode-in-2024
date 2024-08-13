@@ -189,6 +189,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0040-combination-sum-ii) |
 | [0221-maximal-square](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0221-maximal-square) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
@@ -414,4 +415,8 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
