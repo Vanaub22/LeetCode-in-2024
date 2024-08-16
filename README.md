@@ -192,6 +192,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0040-combination-sum-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0040-combination-sum-ii) |
 | [0221-maximal-square](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0221-maximal-square) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0890-lemonade-change) |
@@ -264,6 +265,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
