@@ -11,7 +11,7 @@ public:
                 right[j]=curr--;
             }
             curr=0;
-            for(int j=0;j<n;j++){
+            for(int j=0;j<n;j++) {
                 curr=max(curr,maxPts[j]);
                 maxPts[j]=max(curr--,right[j])+row[j];
             }
