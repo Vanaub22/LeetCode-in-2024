@@ -448,4 +448,8 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
