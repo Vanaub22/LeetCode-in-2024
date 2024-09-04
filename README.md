@@ -202,6 +202,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0999-regions-cut-by-slashes) |
@@ -240,6 +241,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0906-walking-robot-simulation) |
 | [0999-regions-cut-by-slashes](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -305,6 +307,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1803-average-waiting-time) |
