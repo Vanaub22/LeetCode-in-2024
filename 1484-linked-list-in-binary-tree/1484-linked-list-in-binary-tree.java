@@ -33,7 +33,7 @@ class Solution {
         path.add(root.val);
         findAllPaths(root.left,path);
         findAllPaths(root.right,path);
-        path.removeLast(); // Backtracking
+        path.removeLast();
     }
     boolean isSubarray(ArrayList<Integer> arr, ArrayList<Integer> subarr) {
         int m=subarr.size(),n=arr.size();
