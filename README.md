@@ -498,6 +498,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
 | ------- |
