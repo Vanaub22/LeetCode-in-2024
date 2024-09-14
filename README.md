@@ -238,6 +238,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2411-spiral-matrix-iv](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -507,8 +508,13 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1435-xor-queries-of-a-subarray](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
