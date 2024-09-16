@@ -200,6 +200,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0040-combination-sum-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0040-combination-sum-ii) |
 | [0221-maximal-square](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0221-maximal-square) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
@@ -278,6 +279,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0948-sort-an-array) |
@@ -314,6 +316,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0009-palindrome-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0009-palindrome-number) |
 | [0264-ugly-number-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1240-stone-game-ii) |
@@ -377,6 +380,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0539-minimum-time-difference) |
 | [0664-strange-printer](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
