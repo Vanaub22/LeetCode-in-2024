@@ -198,6 +198,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0040-combination-sum-ii) |
+| [0179-largest-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0179-largest-number) |
 | [0221-maximal-square](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0221-maximal-square) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0539-minimum-time-difference) |
@@ -279,6 +280,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -295,6 +297,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -380,6 +383,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0539-minimum-time-difference) |
 | [0664-strange-printer](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0664-strange-printer) |
