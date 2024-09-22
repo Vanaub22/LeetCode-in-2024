@@ -558,4 +558,5 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
