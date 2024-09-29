@@ -254,6 +254,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0906-walking-robot-simulation) |
@@ -316,6 +317,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -508,6 +510,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -585,4 +588,8 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0729-my-calendar-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
