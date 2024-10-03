@@ -364,6 +364,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2411-spiral-matrix-iv](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
+| [3540-hash-divided-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3540-hash-divided-string) |
 ## Recursion
 |  |
 | ------- |
@@ -427,6 +428,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3540-hash-divided-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3540-hash-divided-string) |
 ## Stack
 |  |
 | ------- |
