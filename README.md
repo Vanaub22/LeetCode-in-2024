@@ -235,6 +235,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2035-count-sub-islands) |
@@ -289,6 +290,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0567-permutation-in-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
@@ -428,6 +430,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1923-sentence-similarity-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2502-sort-the-people) |
