@@ -2,7 +2,7 @@ class Solution {
 public:
     bool areSentencesSimilar(string sentence1, string sentence2) {
         vector<string> w1,w2;
-        function<vector<string>(string&)> split=[](string& sentence)->vector<string> {
+        auto split=[](string& sentence)->vector<string> {
             stringstream ss(sentence);
             string word;
             vector<string> words;
