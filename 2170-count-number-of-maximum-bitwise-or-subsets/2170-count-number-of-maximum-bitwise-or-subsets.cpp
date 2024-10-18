@@ -8,5 +8,4 @@ public:
         };
         return solve(0,0);
     }
-
 };
