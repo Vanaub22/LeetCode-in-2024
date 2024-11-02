@@ -482,6 +482,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2502-sort-the-people) |
+| [2580-circular-sentence](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3195-separate-black-and-white-balls) |
