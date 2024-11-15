@@ -236,6 +236,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1694-make-sum-divisible-by-p](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -313,6 +314,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0567-permutation-in-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -325,6 +327,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0729-my-calendar-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2586-longest-square-streak-in-an-array) |
@@ -510,6 +513,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1197-parsing-a-boolean-expression](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1197-parsing-a-boolean-expression) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -707,6 +711,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1002-maximum-width-ramp) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Enumeration
 |  |
 | ------- |
