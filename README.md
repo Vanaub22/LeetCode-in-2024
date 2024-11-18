@@ -242,6 +242,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1803-average-waiting-time) |
@@ -604,6 +605,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1755-defuse-the-bomb](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Strongly Connected Component
