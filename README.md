@@ -265,6 +265,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -301,6 +302,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2502-sort-the-people) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -607,6 +609,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1755-defuse-the-bomb](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Strongly Connected Component
 |  |
