@@ -249,6 +249,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1923-sentence-similarity-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1972-rotating-the-box](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -319,6 +320,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1972-rotating-the-box) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3195-separate-black-and-white-balls) |
@@ -462,6 +464,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2411-spiral-matrix-iv) |
