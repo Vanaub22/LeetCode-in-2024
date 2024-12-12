@@ -276,6 +276,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2586-longest-square-streak-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2755-extra-characters-in-a-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -439,6 +440,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2155-find-missing-observations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
 | [3540-hash-divided-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3540-hash-divided-string) |
@@ -594,6 +596,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
