@@ -279,6 +279,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2755-extra-characters-in-a-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
+| [2868-continuous-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2868-continuous-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -456,6 +457,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2868-continuous-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2868-continuous-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -597,6 +599,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2868-continuous-subarrays) |
 ## Merge Sort
 |  |
 | ------- |
@@ -639,6 +642,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1755-defuse-the-bomb](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2868-continuous-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Strongly Connected Component
@@ -739,6 +743,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | ------- |
 | [0729-my-calendar-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/0731-my-calendar-ii) |
+| [2868-continuous-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -752,4 +757,8 @@ It will only work when you are submitting your solutions in the old **legacy ver
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
