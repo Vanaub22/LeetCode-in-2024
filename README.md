@@ -286,6 +286,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -426,6 +427,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2155-find-missing-observations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -445,6 +447,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2846-robot-collisions) |
 | [3540-hash-divided-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3540-hash-divided-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -600,6 +603,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
