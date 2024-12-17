@@ -311,6 +311,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2502-sort-the-people](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2502-sort-the-people) |
@@ -394,6 +395,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2089-maximum-matrix-sum) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -525,6 +527,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1923-sentence-similarity-iii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2300-construct-string-with-repeat-limit) |
 | [2502-sort-the-people](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2755-extra-characters-in-a-string) |
@@ -599,6 +602,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1304-longest-happy-string](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -624,6 +628,7 @@ It will only work when you are submitting your solutions in the old **legacy ver
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2300-construct-string-with-repeat-limit](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanaub22/LeetCode-in-2024/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
