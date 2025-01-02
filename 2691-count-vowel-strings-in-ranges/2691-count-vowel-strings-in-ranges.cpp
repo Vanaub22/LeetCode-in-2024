@@ -12,8 +12,7 @@ public:
         int m=queries.size(),n=words.size();
         vector<int> answer(m);
         int pref[n];
-        memset(pref,0,n);
-        pref[0]=isVString(words[0])?1:0;
+        pref[0]=isVString(words[0]);
         for(int i=1;i<n;i++) pref[i]=pref[i-1]+isVString(words[i]);
         for(int i=0;i<m;i++) {
             int ll=queries[i][0],ul=queries[i][1];
